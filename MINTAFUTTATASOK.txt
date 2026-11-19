@@ -1,0 +1,37 @@
+Üzemanyagköltség
+================
+Autóút üzemanyagköltségének kiszámítása
+Az út hossza kilométerben: 200
+Átlagfogyasztás (liter/100 km): 6,5
+Az üzemanyag ára (Ft/liter): 600
+Szükséges üzemanyag: 13.00 liter
+Az út üzemanyagköltsége: 7800 Ft
+Az út üzemanyagköltsége legfeljebb 10 000 Ft.
+
+
+Kilométer és mérföld
+====================
+Távolság átváltása
+1 - Kilométerből mérföld
+2 - Mérföldből kilométer
+Válassz egy lehetőséget (1 vagy 2): 1
+Add meg az átváltandó távolságot: 100
+100.00 km = 62.14 mérföld
+
+
+Celsius és Fahrenheit
+=====================
+Celsius-fok átváltása Fahrenheit-fokra
+Add meg a hőmérsékletet Celsius-fokban: -5
+-5.0 °C = 23.0 °F
+Fagyveszély!
+
+
+Milliméter és hüvelyk
+=====================
+Milliméter és hüvelyk átváltása
+1 - Milliméterből hüvelyk
+2 - Hüvelykből milliméter
+Válassz egy lehetőséget (1 vagy 2): 1
+Add meg az átváltandó méretet: 50,8
+50.80 mm = 2.00 hüvelyk
